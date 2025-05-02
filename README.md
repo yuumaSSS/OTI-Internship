@@ -1,2 +1,0 @@
-# OTI-Internship
-OmahTI Internship
