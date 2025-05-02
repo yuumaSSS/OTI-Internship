@@ -1,6 +1,6 @@
 # OTI Internship Month Kelompok 6: Omah Kunci
 
-**Note: This Repo is Mobile app code**
+**This Repo is Mobile app source code**
 
 ## Team structure
 Project Manager	: Satya Wira Pramudita
