@@ -22,4 +22,5 @@ Client			: Resource Manager Division
 
 ## Deployment
 **Website**: https://omah-kunci.vercel.app
+
 **Android**: https://github.com/yuumaSSS/OTI-Internship/releases/tag/v1.0
