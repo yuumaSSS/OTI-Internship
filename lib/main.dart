@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'splash_screen.dart';
-import 'package:flutter/foundation.dart';
-import 'dart:io';
 import 'package:url_launcher/url_launcher.dart';
 import 'team_member.dart';
 
