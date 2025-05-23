@@ -43,32 +43,32 @@ class _MyHomePageState extends State<MyHomePage> {
     TeamMember(
       name: "Ken Bima Satria Gandasasmita",
       image: "assets/team/ken.png",
-      whatsappUrl: "6282114198478",
+      whatsappUrl: "-", // Deleted because we don't share sensitive contents
     ),
     TeamMember(
       name: "Satya Wira Pramudita",
       image: "assets/team/satya.png",
-      whatsappUrl: "6281216760668",
+      whatsappUrl: "-",
     ),
     TeamMember(
       name: "Iffa Hesti Adlik Putri",
       image: "assets/team/iffa.png",
-      whatsappUrl: "6282134623295",
+      whatsappUrl: "-",
     ),
     TeamMember(
       name: "Kenji Ratanaputra",
       image: "assets/team/kenji.png",
-      whatsappUrl: "6281371089032",
+      whatsappUrl: "-",
     ),
     TeamMember(
       name: "Geraldine",
       image: "assets/team/geraldine.png",
-      whatsappUrl: "6282132031290",
+      whatsappUrl: "-",
     ),
     TeamMember(
       name: "Andre",
       image: "assets/team/andre.png",
-      whatsappUrl: "62852574900"
+      whatsappUrl: "-"
     ),
   ];
 
